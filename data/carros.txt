@@ -1,0 +1,20 @@
+Toyota,Rav4,2015,gris,20000
+Honda,Civic,2018,blanco,18000
+Ford,Mustang,2020,rojo,35000
+Chevrolet,Cruze,2017,negro,16000
+Nissan,Altima,2019,azul,22000
+Mazda,CX-5,2021,rojo,30000
+BMW,X3,2016,plata,28000
+Audi,A4,2017,negro,32000
+Hyundai,Elantra,2019,azul,19000
+Kia,Sportage,2018,gris,21000
+Volkswagen,Jetta,2015,blanco,15000
+Subaru,Forester,2020,verde,27000
+Tesla,Model 3,2021,blanco,45000
+Mercedes-Benz,C-Class,2019,negro,40000
+Volvo,XC60,2018,gris,37000
+Lexus,RX350,2020,azul,42000
+Jeep,Cherokee,2017,rojo,25000
+Porsche,Cayenne,2021,negro,80000
+Land Rover,Range Rover,2020,blanco,90000
+Mitsubishi,Outlander,2019,gris,23000

@@ -1,0 +1,20 @@
+Yamaha,R1,2018,azul,15000
+Honda,CBR600RR,2019,rojo,12000
+Kawasaki,Ninja ZX-6R,2020,verde,14000
+Suzuki,GSX-R750,2017,negro,13000
+Ducati,Panigale V4,2021,rojo,25000
+BMW,S1000RR,2020,blanco,20000
+Harley-Davidson,Sportster,2019,negro,11000
+Triumph,Street Triple,2018,gris,10500
+KTM,390 Duke,2021,naranja,7500
+Indian,Scout,2020,azul,12000
+Aprilia,RSV4,2017,rojo,18000
+MV Agusta,F3 800,2019,plata,22000
+Royal Enfield,Continental GT,2020,negro,7000
+Yamaha,MT-09,2018,azul,9000
+Honda,Africa Twin,2021,rojo,15000
+Kawasaki,Versys 650,2020,verde,9500
+Suzuki,V-Strom 650,2019,amarillo,10000
+Ducati,Monster 821,2020,rojo,12000
+BMW,R1250GS,2021,blanco,18000
+Harley-Davidson,Fat Boy,2019,gris,20000
