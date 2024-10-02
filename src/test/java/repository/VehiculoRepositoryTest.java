@@ -44,4 +44,12 @@ class VehiculoRepositoryTest {
            vehiculotest.buscar(1990);
         });
     }
+
+     @Test
+    public void testAgregarVehiculo() {
+        assertEquals(20, vehiculotest.getVehiculos().size());
+        vehiculotest.agregar(new Vehiculo("Daewoo", "Tico", 1999, "Verde", 1500.0));
+        assertEquals(21, vehiculotest.getVehiculos().size());
+        assertEquals("Daewoo", vehiculotest.getVehiculos().get(20).marca());
+    }
 }
